@@ -4,6 +4,7 @@ import argparse
 from sklearn.metrics import accuracy_score
 
 parser = argparse.ArgumentParser()
+ali
 parser.add_argument('--model', type=str, required=True)
 args = parser.parse_args()
 
