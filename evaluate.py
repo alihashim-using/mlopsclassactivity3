@@ -4,7 +4,7 @@ import argparse
 from sklearn.metrics import accuracy_score
 
 parser = argparse.ArgumentParser()
-ali
+ali hashim
 parser.add_argument('--model', type=str, required=True)
 args = parser.parse_args()
 
